@@ -7,7 +7,6 @@ Proyek segmentasi pelanggan menggunakan **RFM Analysis** dan **K-Means Clusterin
 [Online Retail — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 Transaksi sebuah perusahaan ritel online asal Inggris periode 01/12/2010–09/12/2011 (541.909 baris transaksi, 8 kolom).
 
-> Berkas dataset (`Online Retail.xlsx`) turut disertakan di repo ini agar notebook bisa langsung dijalankan tanpa perlu download manual.
 
 ## 🎯 Tujuan
 
