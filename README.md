@@ -54,4 +54,4 @@ jupyter notebook K_Means_Customer_Segmentation.ipynb
 ```
 
 ---
-*Catatan: Notebook ini merupakan rekonstruksi dari proyek asli (berkas kerja sebelumnya hilang akibat instal ulang laptop), dibangun ulang mengikuti metodologi yang sama seperti pada publikasi jurnal.*
+
